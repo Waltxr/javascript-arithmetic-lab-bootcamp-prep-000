@@ -30,6 +30,4 @@ function preserveDecimal(n) {
   return parseFloat(n)
 }
 
-function isNaN(notnumber) {
-  return notnumber === NaN
-}
+
